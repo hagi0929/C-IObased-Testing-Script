@@ -1,0 +1,13 @@
+after insert 7: 7 7
+after insert 6: 6 7
+after insert 5: 5 7
+after insert 4: 4 7
+after insert 3: 3 7
+after insert 2: 2 7
+after insert 1: 1 7
+after delete min: 2 7
+after delete min: 3 7
+after delete min: 4 7
+after delete min: 5 7
+after delete min: 6 7
+after delete min: 7 7

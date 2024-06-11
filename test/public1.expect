@@ -1,0 +1,13 @@
+after insert 1: 1 1
+after insert 2: 1 2
+after insert 3: 1 3
+after insert 4: 1 4
+after insert 5: 1 5
+after insert 6: 1 6
+after insert 7: 1 7
+after delete max: 1 6
+after delete max: 1 5
+after delete max: 1 4
+after delete max: 1 3
+after delete max: 1 2
+after delete max: 1 1

@@ -1,0 +1,12 @@
+Running tests...
+./test/public1.in: PASS
+./test/public2.in: PASS
+./test/public3.in: PASS
+./test/public4.in: FAIL
+./test/public5.in: FAIL
+Testing completed. Report generated at ./build/test_report.txt
+
+Summary:
+Total tests: 5
+Passed tests: 3
+Failed tests: 2
