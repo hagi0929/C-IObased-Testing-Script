@@ -1,4 +1,4 @@
-# C++ Testing Framework for Text-Based Input and Output
+# CS240PQ-template
 
 This project is a comprehensive C++ testing framework designed to streamline the testing of text-based input and output for programs. The framework is equipped with several utility scripts that simplify common tasks, enhancing the ease of use and efficiency for developers. This framework was created to make the CS240 programming assignments easier and more efficient.
 
